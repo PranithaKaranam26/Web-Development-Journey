@@ -1,2 +1,2 @@
-# My Web Development Journey
-Frontend
+# My Web Development Practice
+
